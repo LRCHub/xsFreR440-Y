@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "B-Boy（feat. Bark、MuKuRo、JP THE WAVY、MUD）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-28T08:55:53.564116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B-Boy (feat. Bark, MuKuRo, JP THE WAVY & MUD)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_B-Boy_(feat._Bark,_MuKuRo,_JP_THE_WAVY_&_MUD)_BAD_HOP.txt"
+    }
+  ]
+}
